@@ -1,0 +1,99 @@
+#contentbox{
+    border: 1px solid red;
+}
+#M1{
+    background-color:#ffffff; 
+    width:1060px; 
+    height:270px; 
+    margin-top:0px; 
+    margin-bottom:30px; 
+    padding: 0px 0px 0px 0px; 
+    margin-top: 40px; 
+    border: 1px solid #dddddd; 
+    color: #333333; box-shadow: 
+    0px 0px 6px #e0e0e0; 
+    font-size: 14px;
+}
+
+#M2{
+    justify-content: space-around;
+    width: 78%;
+    margin: auto;
+    
+}
+
+
+
+.deal_table{
+    border: 1px solid red;
+    
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+.deal_table:hover{
+    
+    
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.deal_table_image{
+    background-color: #fff;
+}
+
+.deal_label{
+  
+    text-align: center;
+}
+
+.deal_off_small{
+    text-align: end;
+}
+
+.deal_notice{
+    text-align: center;
+}
+
+.deal_notice_triangle{
+    text-align: center;
+}
+
+#menu_box_0{
+    width: 78%;
+}
+
+#menu_box_1{
+    
+    width: 78%;
+}
+
+#menu_box_2{
+    
+    width: 78%;
+}
+
+#menu_box_3{
+    width: 78%;
+}
+
+#menu_box_4{
+    width: 78%;
+}
+
+#menu_box_5{
+    width: 78%;
+}
+
+
+.moment_box{
+    
+    width: 78%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.moment_box:hover{
+ 
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#KT{
+    width: 78%;
+}

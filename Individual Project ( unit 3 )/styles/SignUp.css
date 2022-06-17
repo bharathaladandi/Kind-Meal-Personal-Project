@@ -1,0 +1,35 @@
+.content{
+    text-align: left;
+    display: flex;
+    width: 78%;
+    /* margin-left: 20%; */
+}
+
+.box_selected{
+    height: 180px;
+    margin-left: 50%;
+}
+
+.box_unselected{
+    margin-left: 50%;
+}
+
+#SignBot{
+    text-align: center;
+    width: 100%; 
+    background-color: #e0e0e0; 
+    height:225px; 
+    vertical-align:bottom;
+}
+
+#SI{
+    margin-top:20px;
+    width:900;
+}
+
+.button_red{
+    font-size:20px; 
+    height:30px; 
+    line-height:30px;
+}
+

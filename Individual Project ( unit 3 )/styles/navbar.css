@@ -1,0 +1,68 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    width: 85%;
+    margin: auto;
+    margin-top: 40px;
+    cursor: pointer;
+    gap: 50px;
+}
+
+#words{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #2bb673;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 50px;
+}
+
+#words > a{
+    text-decoration: none;
+    color: white;
+}
+
+#footer{
+    background-color: #2bb673; 
+    color: white;
+ }
+ 
+ .footerheader > a{
+     text-decoration:none;
+     color: #eeeeee;
+     font-size: 12px;
+ }
+
+ 
+#social{
+   
+    display: flex;
+    gap: 30px;
+    height: 40px;   
+}
+
+#log{
+    display: flex;
+    gap: 30px;
+ 
+}
+
+#Fac{
+    height: 30px;
+    justify-content: center;
+    padding: 0px 20px 0px 20px;
+    background-color: #35619f;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#Email{
+    height: 30px;
+    justify-content: center;
+    padding: 0px 35px 0px 35px;
+    background-color: #666666;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
